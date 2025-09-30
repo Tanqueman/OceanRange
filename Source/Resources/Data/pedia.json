@@ -7,10 +7,12 @@
             "l.pearls":
             {
                 "EN": "Pearlonomics"
+                "ES": "Perlanomía"
             },
             "m.foodgroup.dirt":
             {
                 "EN": "Dirt"
+                "ES": "Tierra"
             }
         },
         "pedia":
@@ -18,6 +20,7 @@
             "m.favored_by.silky_sand_craft":
             {
                 "EN": "Sand Slime"
+                "ES": "Slime Arena"
             }
         }
     },
@@ -28,6 +31,7 @@
             "names":
             {
                 "EN": "Rosi Slime"
+                "ES": "Slime Pinky"
             },
             "risks":
             {
